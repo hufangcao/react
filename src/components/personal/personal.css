@@ -1,0 +1,80 @@
+.loginTypesWrap {
+  background: #f2f5f4;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+}
+.loginTypesWrap .cont {
+  width: 100%;
+  height: 35rem;
+  overflow: hidden;
+}
+.loginTypesWrap .cont .logoWrap {
+  width: 9rem;
+  height: 3.5rem;
+  margin-top: 6rem;
+  margin-left: 7.5rem;
+}
+.loginTypesWrap .cont .logoWrap img {
+  width: 9rem;
+  height: 3.5rem;
+}
+.loginTypesWrap .cont .btnWrap {
+  width: 86%;
+  height: 10rem;
+  margin-left: 8%;
+  margin-top: 6rem;
+  overflow: hidden;
+}
+.loginTypesWrap .cont .btnWrap .btn1 {
+  width: 100%;
+  height: 3rem;
+  background: #d3636a;
+  text-align: center;
+  line-height: 3rem;
+  color: #fff;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+.loginTypesWrap .cont .btnWrap .btn2 {
+  width: 100%;
+  height: 3rem;
+  background: #fff;
+  text-align: center;
+  line-height: 3rem;
+  color: #d3636a;
+  font-weight: 800;
+  border: #d3636a 0.1rem solid;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+.loginTypesWrap .cont .btnWrap .btn {
+  width: 100%;
+  height: 3rem;
+  text-align: center;
+  line-height: 3rem;
+  font-size: 0.9rem;
+  color: #4f4f4f;
+}
+.loginTypesWrap .thirdWrap {
+  width: 100%;
+  height: 4rem;
+  text-align: center;
+}
+.loginTypesWrap .thirdWrap .talk {
+  display: inline-block;
+  width: 4rem;
+  height: 2rem;
+  border-right: #ceb4ff solid 1px;
+  text-align: center;
+  line-height: 2rem;
+  padding-right: 1rem;
+}
+.loginTypesWrap .thirdWrap .talk span {
+  font-size: 0.7rem;
+  color: #7e8c8d;
+}
+.loginTypesWrap .thirdWrap .talk i {
+  color: #7e8c8d;
+}

@@ -1,0 +1,87 @@
+.j-categoryList {
+  width: 100%;
+  margin-top: 1rem;
+}
+.j-categoryList .m-cateNavVertWrap {
+  width: 5rem;
+  float: left;
+}
+.j-categoryList .m-cateNavVertWrap .j-cateNav {
+  width: 5rem;
+}
+.j-categoryList .m-cateNavVertWrap .j-cateNav .item {
+  width: 5rem;
+  height: 2rem;
+  margin-bottom: 0.5rem;
+}
+.j-categoryList .m-cateNavVertWrap .j-cateNav .item a {
+  width: 100%;
+  height: 2.5rem;
+  display: block;
+  text-align: center;
+  line-height: 2.5rem;
+  font-size: 0.9rem;
+  color: #4f4f4f;
+}
+.j-categoryList .m-cateNavVertWrap .j-cateNav .item a.on {
+  color: #840000;
+}
+.m-subCateList {
+  width: 18rem;
+  float: left;
+}
+.m-subCateList .banner {
+  width: 90%;
+  height: 5rem;
+  background: #e6e6fa;
+  margin-left: 5%;
+}
+.m-subCateList .banner img {
+  width: 100%;
+  height: 6rem;
+  border-radius: 0.4rem;
+}
+.m-subCateList .cateList {
+  width: 90%;
+  height: 7rem;
+  margin-left: 5%;
+}
+.m-subCateList .cateList .hd {
+  width: 100%;
+  height: 4rem;
+  text-align: center;
+  line-height: 5rem;
+}
+.m-subCateList .cateList .hd span {
+  display: inline-block;
+  width: 2rem;
+  height: 1px;
+  background: #eee;
+}
+.m-subCateList .cateList .hd div {
+  font-size: 0.8rem;
+  display: inline-block;
+}
+.m-subCateList .cateList .list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.m-subCateList .cateList .list .cateItem {
+  width: 30%;
+  height: 6rem;
+  text-align: center;
+  margin-left: 0.5rem;
+}
+.m-subCateList .cateList .list .cateItem img {
+  width: 90%;
+  height: 4rem;
+  border-radius: 50%;
+}
+.m-subCateList .cateList .list .cateItem div {
+  width: 100%;
+  height: 2rem;
+  text-align: center;
+  line-height: 1rem;
+  font-size: 0.7rem;
+}

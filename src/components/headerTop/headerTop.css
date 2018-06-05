@@ -1,0 +1,45 @@
+.headerTop {
+  position: relative;
+  z-index: 2;
+  background: #fff;
+}
+.headerTop .header {
+  width: 96%;
+  height: 4rem;
+  padding: 0.21333rem 0.4rem;
+  overflow: hidden;
+  margin-left: 1%;
+  position: relative;
+}
+.headerTop .header .left {
+  display: inline-block;
+  width: 2rem;
+  height: 3rem;
+  line-height: 3rem;
+  margin-right: 2rem;
+}
+.headerTop .header .left i {
+  font-size: 2rem;
+  color: #7e8c8d;
+}
+.headerTop .header a {
+  display: inline-block;
+  width: 6rem;
+  height: 2rem;
+  margin-left: 4rem;
+  font: 1.5rem "微软雅黑";
+  color: #000;
+  line-height: 2rem;
+  text-align: center;
+}
+.headerTop .header .right {
+  display: inline-block;
+  width: 6rem;
+  height: 3rem;
+  margin-left: 2.2rem;
+}
+.headerTop .header .right i {
+  font-size: 2rem;
+  margin-right: 0.5rem;
+  color: #7e8c8d;
+}

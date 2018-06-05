@@ -1,0 +1,60 @@
+.header-cart {
+  width: 100%;
+  height: 4rem;
+  font-size: 1.5rem;
+  color: #4f4f4f;
+  text-align: center;
+  line-height: 4rem;
+  font-weight: 600;
+  font-family: "宋体";
+}
+.shopCat {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: #f4f4f4;
+  line-height: 100%;
+  text-align: center;
+}
+.shopCat .m-servicePolicy {
+  width: 100%;
+  height: 2rem;
+  text-align: center;
+}
+.shopCat .m-servicePolicy .item {
+  width: 32%;
+  height: 2rem;
+  display: inline-block;
+  text-align: center;
+  line-height: 2rem;
+}
+.shopCat .m-servicePolicy .item i {
+  float: left;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  margin-top: 0.7rem;
+  background: #e6e6fa;
+}
+.shopCat .m-servicePolicy .item .text1 {
+  font-size: 0.8rem;
+  color: #4f4f4f;
+}
+.shopCat img {
+  width: 40%;
+  margin-top: 10rem;
+}
+.shopCat span {
+  display: block;
+  font-size: 1.2rem;
+  color: #7e8c8d;
+}
+.shopCat .noCart-btn {
+  width: 14rem;
+  height: 2.5rem;
+  background: #d3636a;
+  border-radius: 0.2rem;
+  line-height: 2.5rem;
+  display: inline-block;
+  margin-top: 3rem;
+}

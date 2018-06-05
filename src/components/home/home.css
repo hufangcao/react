@@ -1,0 +1,66 @@
+.wrap-home {
+  width: 100%;
+  height: 10px;
+}
+.wrap-home .home {
+  width: 100%;
+}
+.wrap-home .home .content {
+  width: 100%;
+  height: 2rem;
+}
+.wrap-home .home .content .navWrap {
+  float: left;
+  height: 2rem;
+  white-space: nowrap;
+}
+.wrap-home .home .content .navWrap .item {
+  display: inline-block;
+  width: 2.4rem;
+  height: 2rem;
+  margin-left: 2rem;
+}
+.wrap-home .home .content .navWrap .item span {
+  display: inline-block;
+  width: 2.4rem;
+  height: 2rem;
+  margin-left: 1rem;
+  font-size: 16px;
+  line-height: 2.3rem;
+  font-weight: 700;
+  border-bottom: rgba(0,0,0,0) solid 3px;
+}
+.wrap-home .home .content .navWrap .item span.on {
+  border-bottom: solid 3px #b9383d;
+  color: #b9383d;
+}
+.wrap-home .home .swiper-container {
+  width: 100%;
+  height: 12rem;
+}
+.wrap-home .home .swiper-container img {
+  width: 100%;
+}
+.wrap-home .home .ensure {
+  width: 100%;
+  height: 3rem;
+  text-align: center;
+  line-height: 2rem;
+}
+.wrap-home .home .ensure .item {
+  width: 29%;
+  height: 0.5rem;
+  display: inline-block;
+}
+.wrap-home .home .ensure .item .textIcon {
+  width: 2rem;
+  height: 2rem;
+}
+.wrap-home .home .ensure .item .textIcon img {
+  width: 1rem;
+  height: 1rem;
+}
+.wrap-home .home .ensure .item .ensureText {
+  font-size: 12px;
+  margin-top: -2rem;
+}

@@ -1,0 +1,164 @@
+.m-exploreTenFifteen {
+  width: 100%;
+  height: 13rem;
+}
+.m-exploreTenFifteen .inner {
+  height: 12rem;
+  margin-left: 5%;
+  white-space: nowrap;
+  float: left;
+}
+.m-exploreTenFifteen .inner .innerItem {
+  display: inline-block;
+  width: 19.5rem;
+  margin-left: 0.3rem;
+  height: 11rem;
+  border: #878c8d solid 0.3rem;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.m-exploreTenFifteen .inner .innerItem .line-title {
+  width: 100%;
+  height: 2rem;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+.m-exploreTenFifteen .inner .innerItem .line-title span {
+  font-size: 1rem;
+  display: inline-block;
+}
+.m-exploreTenFifteen .inner .innerItem .line-title p {
+  display: inline-block;
+  font-size: 0.7rem;
+}
+.m-exploreTenFifteen .inner .innerItem .line-text-one {
+  width: 100%;
+  height: 2rem;
+  text-align: center;
+  font-size: 1.3rem;
+  color: #4f4f4f;
+  font-weight: 700;
+}
+.m-exploreTenFifteen .inner .innerItem .line-text-two {
+  width: 100%;
+  height: 2rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #4f4f4f;
+  margin-top: 1rem;
+}
+.m-exploreTenFifteen .inner .innerItem .line-pic {
+  width: 100%;
+  height: 2rem;
+  text-align: center;
+}
+.m-exploreTenFifteen .inner .innerItem .line-pic img {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+.m-exploreTenFifteen .inner .innerItem .line-pic span {
+  font-size: 0.7rem;
+  vertical-align: middle;
+}
+.m-exploreLook {
+  width: 100%;
+  height: 21.5rem;
+}
+.m-exploreLook .module-title {
+  width: 100%;
+  height: 3rem;
+  text-align: center;
+  line-height: 3rem;
+  font-size: 1rem;
+  border-top: solid 1rem #f4f4f4;
+}
+.m-exploreLook .module-pic {
+  display: block;
+  width: 100%;
+  height: 18rem;
+}
+.m-exploreLook .module-pic img {
+  width: 100%;
+  height: 14rem;
+}
+.m-exploreLook .module-pic .author-container {
+  width: 90%;
+  margin-left: 5%;
+  height: 2rem;
+}
+.m-exploreLook .module-pic .author-container img {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  vertical-align: center;
+}
+.m-exploreLook .module-pic .author-container span {
+  font-size: 1rem;
+  vertical-align: center;
+}
+.m-exploreMore {
+  width: 100%;
+  height: 20rem;
+  background: #f4f4f4;
+}
+.m-exploreMore .line-title {
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+  line-height: 5rem;
+}
+.m-exploreMore .line-title span {
+  width: 8rem;
+  height: 0.1rem;
+  display: inline-block;
+  background: #eee;
+  vertical-align: center;
+}
+.m-exploreMore .line-title p {
+  display: inline-block;
+  font-size: 0.9rem;
+  vertical-align: center;
+}
+.m-exploreMore .content {
+  width: 90%;
+  height: 14rem;
+  margin-left: 5%;
+  margin-top: 4rem;
+}
+.m-exploreMore .content.three .left {
+  width: 70%;
+  height: 14rem;
+  float: left;
+}
+.m-exploreMore .content.three .left img {
+  width: 100%;
+  height: 14rem;
+}
+.m-exploreMore .content.three .right {
+  float: right;
+  width: 30%;
+  height: 14;
+}
+.m-exploreMore .content.three .right img {
+  width: 100%;
+  height: 7rem;
+}
+.m-exploreMore .content.one .onlyOne {
+  width: 100%;
+  height: 14rem;
+}
+.m-exploreMore .content.one .onlyOne img {
+  width: 100%;
+  height: 14rem;
+}
+.m-exploreMore .content span {
+  width: 100%;
+  height: 3rem;
+  display: block;
+  text-align: center;
+  line-height: 3rem;
+  color: #4f4f4f;
+  font-size: 0.8rem;
+}
